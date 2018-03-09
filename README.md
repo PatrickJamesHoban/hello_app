@@ -1,4 +1,6 @@
-== README
+== RAILS SIMPLE HELLO APP
+
+## Quick Practice to get a sample rails app up and running on Heroku, before doing the same for my pet project.
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
